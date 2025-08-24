@@ -14,7 +14,7 @@ It helps banks/financial institutions make faster and data-driven decisions.
 
 ## 🚀 Key Features
 
-**Performed Exploratory Data Analysis (EDA)** to identify patterns, trends, and correlations.
+* **Performed Exploratory Data Analysis (EDA)** to identify patterns, trends, and correlations.
 
 * Handled **data preprocessing:**  missing value treatment, encoding categorical variables, and feature scaling.
 
@@ -29,9 +29,21 @@ It helps banks/financial institutions make faster and data-driven decisions.
 ---
 
 ## 📊 Dataset
-Contains applicant details like gender, income, loan amount, credit history, property area, etc.
+The dataset contains loan application records with attributes such as:
 
-Target:**Loan_Status (Approved / Not Approved)**
+* Applicant Income
+
+* Co-applicant Income
+
+* Loan Amount
+
+* Loan Term
+
+* Credit History
+
+* Employment & Property Details
+
+* Target:**Loan_Status (Approved / Not Approved)**
 
 ---
 
