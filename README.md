@@ -30,6 +30,7 @@ It helps banks/financial institutions make faster and data-driven decisions.
 
 ## 📊 Dataset
 Contains applicant details like gender, income, loan amount, credit history, property area, etc.
+
 Target:**Loan_Status (Approved / Not Approved)**
 
 ---
